@@ -2,7 +2,7 @@
 <h2>👨‍💻 General IT Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/Jgezaheg/ActiveDirectoryLab/blob/main/README.md)<br/>
-&ensp;- [Adding users without script](https://github.com/Jgezaheg)<br/>
+&ensp;- [Adding users without script](https://github.com/Jgezaheg/Adding-users-without-script)<br/>
 - [Spiceworks Ticketing Lab](https://github.com/Jgezaheg/SpiceWorksTicketingLab/blob/main/README.md)
 - [add project](https://github.com/Jgezaheg)
 - [add project](https://github.com/Jgezaheg)
