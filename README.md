@@ -1,7 +1,7 @@
 <h1>Hi, I'm Joseph! <br/><a href="https://github.com/Jgezaheg">IT Professional</a>
 <h2>👨‍💻 General IT Projects:</h2>
 
-- [Active Directory Home Lab]([https://github.com/Jgezaheg](https://github.com/Jgezaheg/ActiveDirectoryLab/blob/main/README.md))
+- [Active Directory Home Lab](https://github.com/Jgezaheg](https://github.com/Jgezaheg/ActiveDirectoryLab/blob/main/README.md))
 - [add project](https://github.com/Jgezaheg)
 - [add project](https://github.com/Jgezaheg)
 - [add project](https://github.com/Jgezaheg)
